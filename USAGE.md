@@ -6,5 +6,3 @@
 
 Lihtne tervitusskript:
 
-```bash
-./hello.sh
