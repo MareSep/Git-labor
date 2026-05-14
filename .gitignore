@@ -13,3 +13,5 @@ temp/
 # OS specific
 .DS_Store
 Thumbs.db
+backups/backup_20260221_084511.tar.gz
+backups/backup_20260221_084516.tar.gz
